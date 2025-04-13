@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Python, Automation, AI and Backend Development**
 
-- 📄 Know more about my experiences [https://www.linkedin.com/in/muhammad-ameer-hamza-a6b74017a/] at LinkedIn
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ameer-hamza-a6b74017a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ameer-hamza-a6b74017a/" height="30" width="40" /></a>
