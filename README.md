@@ -247,7 +247,7 @@
 
 <p><img align="left" src="https://github-readme-stats-muhammad-ameer-hamza0s-projects.vercel.app/api/top-langs?username=muhammad-ameer-hamza0&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight&cachebust=1" alt="muhammad-ameer-hamza0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-muhammad-ameer-hamza0s-projects.vercel.app/api?username=muhammad-ameer-hamza0&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="muhammad-ameer-hamza0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-muhammad-ameer-hamza0s-projects.vercel.app/api?username=muhammad-ameer-hamza0&show_icons=true&locale=en&count_private=true&theme=tokyonight&include_all_commits=true" alt="muhammad-ameer-hamza0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ameer-hamza0&theme=tokyonight" alt="muhammad-ameer-hamza0" /></p>
 
